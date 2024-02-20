@@ -24,10 +24,38 @@ body {
 }
 .logo {
   margin-right: 1rem;
+
+
 }
 .brand {
+  padding-top: auto;
   font-size: 2rem;
+  /* margin: auto; */
+  padding: 20px;
+  margin: -21px;
 }
 .upperSide {
-  /* padding: 1.5rem; */
+  padding: 4.9rem;
+  border-bottom: 1px solid rgb(100, 100, 100);
+  height: 70%;
+}
+.upperSideTop {
+  /* display: flex; */
+  align-items: center;
+}
+.midbtn{
+  background: #5a4bff;
+  border: none;
+  color: wheat;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  width: 25rem;
+  display: flex;   
+  /* align-items: center;
+  text-align: center;
+  justify-content: center; */
+}
+.addbtn{
+  height: 2rem;
+  margin:  auto
 }
